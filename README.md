@@ -1,4 +1,4 @@
-Projects developed for *Modeling and Control of Cyber-Physical-Systems* Master Degree course at Politecnico di Torino.
+Projects developed for *Modeling and Control of Cyber-Physical-Systems* Master Degree course @ Politecnico di Torino \
 Details regarding development and implementations can be found in the two pdf reports.
 ## Part 1: State estimation of a system
 The main goal of this activity is to estimate the state of a system in different environments: in absence or presence of sensors attacks, in a target localization problem in a two dimensional indoor area, using a sparse/distributed observer implementation.
